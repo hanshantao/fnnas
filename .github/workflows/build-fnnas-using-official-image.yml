@@ -69,6 +69,7 @@ on:
           - nsy-g68-plus
           - orangepi-5-plus
           - orangepi-5b
+          - orangepi-5
           - panther-x2
           - photonicat
           - r66s
